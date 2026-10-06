@@ -35,10 +35,14 @@ corners and one indigo ink for action.
 
 ## Installation
 
-**From the community directory:** Settings → Appearance → Themes → Manage, search for
-**Borozdov Ledger**, then **Install and use**.
+**From the community directory, as a variant:** this theme ships inside **Borozdov
+Utility**. Install Borozdov Utility under Settings → Appearance → Themes → Manage, then
+the [Style Settings](https://github.com/mgmeyers/obsidian-style-settings) plugin, and
+choose **Ledger** under Style Settings → Borozdov Utility → Variant. The variant brings
+this theme's palette, type and corners; its own layout, and its embedded font if it has
+one, come with the full theme below.
 
-**By hand:** download `manifest.json` and `theme.css` from the
+**The full theme, by hand:** download `manifest.json` and `theme.css` from the
 [latest release](https://github.com/borozdov-obsidian-themes/ledger/releases/latest) into
 `<vault>/.obsidian/themes/Borozdov Ledger/`, then choose Borozdov Ledger under
 Settings → Appearance → Themes.
@@ -58,5 +62,4 @@ MIT — see [LICENSE](LICENSE).
 **По-русски.** Тема из коллекции Borozdov. Два лика: светлый «Иней» — прохладно-белый
 гроссбух, и тёмный «Синий» — тот же гроссбух после закрытия. Тонкий шрифт Inter веса 300,
 чёткие линейки, углы 4px, никаких теней и одни индиговые чернила для действий.
-Устанавливается из каталога: Настройки → Оформление → Темы → Настроить → Borozdov Ledger →
-Установить и применить.
+В каталоге тема живёт вариантом Borozdov Utility: установите Borozdov Utility и плагин Style Settings, затем выберите Ledger в Style Settings → Borozdov Utility → Variant. Целиком, со своей вёрсткой, тема ставится вручную из последнего релиза репозитория.
